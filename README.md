@@ -6,8 +6,7 @@
 - When a User clicks on the button a second time the "Ruff" should be removed from the DOM
 
 ## API
-Make sure to use `json-server db.json` when running your backend.
-You will want to make a request to `GET http://localhost:3005/dogs`.
+We will be using `json-server`. Be sure to `npm install -g json-server`. Then to run `json-server db.json` when running your backend. You will want to make a request to `GET http://localhost:3005/dogs` to retrieve all dogs.
 
 ## What are we practicing?
 
